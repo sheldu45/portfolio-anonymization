@@ -1,0 +1,7 @@
+openai
+datasets
+scikit-learn
+librosa
+soundfile
+openai-whisper
+numpy
