@@ -1,0 +1,25 @@
+Operator: Allô.
+Caller: Allô madame.
+Operator: Oui, allô allô. Oui, bonjour, je suis le <PII>. Vous m'appellez pour votre enfant qui a bien 3 mois, c'est ça?
+Caller: Oui c'est ça, c'est ça exactement. Ça fait, j'attends depuis longtemps là. D'accord. Il a pris des médicaments qu'il n'aurait pas dû prendre.
+Operator: Oui, c'est ça, c'est ça. Je pense que ça fait beaucoup de médicaments là. Je ne sais pas quoi faire. J'attends depuis très longtemps maintenant. Je, je, j'en suis vraiment désolée. On va essayer d'être rapide et de trouver la meilleure solution.
+Caller: Ben oui, ben j'attends quoi. Hein. 
+Operator: Quel médicament a-t-il pris?
+Caller: Ben c'est du paracitamol, là, vous savez.
+Operator: Oui, tout à fait. En quelle dose il a pris?
+Caller: Ben, je ne sais pas. Enfin moi, j'ai l'habitude. Enfin, j'ai tout un enfant. J'en donne. J'ai pas l'habitude d'en donner. Mais là, je pense que j'ai donné une grande dose, 3 fois la dose qu'il aurait dû donner. Et moi, on me dit pas quoi faire. Du coup, moi là, j'attends. Je ne sais pas quoi faire, vous voyez. Et vous, qu'est-ce que je dois faire? Qu'est-ce que je dois faire, hein? 
+Operator: Vous restez avec votre enfant. Vous lui donnez rien à boire ni à manger. Vous le surveillez et j'envoie les secours tout de suite. Mais moi là, il faut que je donne quoi? Qu'est-ce qu'il faut que je donne? 
+Caller: J'ai pas compris.
+Operator: Il faut donner absolument rien à votre enfant. Ni à boire, ni à manger, ni du lait ni quoi que ce soit.
+Caller: Oui, mais est-ce qu'il faut le faire vomir? On m'a dit qu'il fallait le faire vomir.
+Operator: Non, il ne faut pas le faire vomir. Là, vous le gardez avec vous. Les secours arrivent, ils sont en route. 
+Caller: D'accord, ils arrivent dans combien de temps? Parce que moi, j'attends là depuis tout à l'heure.
+Operator: Ils vont arriver dans moins de 15 minutes.
+Caller: Moins de 15 minutes? Oui. Vous êtes sûre?
+Operator: Je suis sûre. N'hésitez pas à nous rappeler s'il y a quoi que ce soit de nouveau, si votre enfant vomit, s'il perd connaissance, s'il y a un autre problème. 
+Caller: C'est quoi un autre problème par exemple?
+Operator: Par exemple, si vous voyez qu'il devient tout blanc, tout jaune, tout rouge, s'il vomit, si vous êtes inquiète, vous rappelez, et on vous répondra.
+Caller: Mais je suis inquiète, je suis inquiète. C'est depuis tout à l'heure que je suis inquiète, bien sûr.
+Operator: Je comprends. Et c'est pour ça qu'on envoie les secours tout de suite, madame. Les secours arrivent.
+Caller: D'accord. Au revoir.
+Operator: Au revoir.

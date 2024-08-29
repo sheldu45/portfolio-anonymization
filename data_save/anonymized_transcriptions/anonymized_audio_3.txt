@@ -1,0 +1,35 @@
+Operator: Bonjour <PII> au SAMU 93, vous appelez pour votre grand père, c'est ça?  
+Caller: Oui, c'est bien ça.
+Operator: Vous êtes avec lui là ou pas?  
+Caller: Non, non, j'arrivais devant l'immeuble et je vois qu'il y a de la fumée partout et voilà.
+Operator: Il y a des secours sur place monsieur?  
+Caller: Non, non il n'y a personne.
+Operator: Vous n'avez pas de conseil à personne?
+Caller: Non, il n'y a personne.
+Operator: Donc votre grand père, il est à quel étage?
+Caller: Il est au deuxième étage.
+Operator: Il peut se déplacer lui ou pas?
+Caller: Je ne sais pas, je ne suis pas encore rentré, mais je vais monter tout de suite.
+Operator: Est-ce qu'il a des problèmes de santé? 
+Caller: Non, monsieur, ne montez pas pour l'instant. Est-ce qu'il a des problèmes de santé qui font qu'il ne peut pas se déplacer?
+Operator: Il est un peu âgé, il a du mal à se déplacer mais là, ça a l'air de sortir de la fenêtre de chez lui.
+Caller: Ça a l'air de sortir de chez lui. Vous avez les clés du domicile?
+Operator: Oui, je les ai, je vais les rendre visite et là, je vais monter pour aller voir comment il va. Je ne peux pas le laisser un peu dans cette situation. Je vais aller monter, je vous avertissais juste qu'il y avait ça.
+Caller: Il a le téléphone votre grand père, vous pouvez l'appeler?
+Operator: J'ai essayé de l'appeler, il ne répondait pas. C'est pour ça que je me suis déplacé pour venir le voir.
+Caller: Vous êtes sûr qu'il est chez lui?
+Operator: Normalement, oui. Est-ce qu'il y a d'autres voisins? 
+Caller: Ne montez pas encore monsieur, s'il vous plaît. Est-ce qu'il y a d'autres voisins là, à côté de vous ou aux fenêtres ou quelque part?
+Operator: Non, il n'y a personne. Il y a donc du feu qui ne part que de sa fenêtre à lui?  
+Caller: Oui.
+Operator: Il ne faut pas que vous montiez parce que ça serait peut-être vous mettre en danger. Je comprends que vous soyez inquiet pour votre grand père mais on a envoyé les pompiers. Les pompiers sont en cours de route, ils arrivent. 
+Caller: Mais s'il lui arrive quoi que ce soit, moi je pourrais monter et redescendre en 5 minutes.
+Operator: Monsieur, vous n'avez ni les équipements de protection individuelle adaptés, ni la formation. Ce serait prendre trop de risques. Il faut laisser les pompiers intervenir. Ils arrivent et ils prendront en charge votre grand père.
+Caller: Mais s'il lui arrive quoi que ce soit?
+Operator: S'il lui arrive quoi que ce soit, vous ne pourrez pas réagir en tant que secouriste. Vous n'avez pas le matériel. Il vaut mieux, il faut que ce soit les pompiers qui s'en occupent. Vous, vous pouvez vous rester devant l'immeuble et vous essayez d'alerter les autres voisins. Si vous avez les numéros de téléphone d'autres personnes pour qu'ils évacuent l'immeuble. Mais vous ne rentrez pas dans l'immeuble.
+Caller: Ok d'accord. Vous restez là et vous me rappelez s'il se passe quelque chose de nouveau?
+Operator: D'accord donc je reste là. Et si j'entends des cris ou des choses comme ça, je ne rentre pas. Il faut rester à l'extérieur de l'immeuble. Ne vous mettez pas en danger.
+Caller: Ok. D'accord, je vous attends alors. Et vous donnerez les clés aux pompiers?
+Operator: Ok, mais il faut faire vite parce que moi je suis inquiet.
+Caller: Ils sont en route, ils arrivent?
+Operator: Ok, d'accord.

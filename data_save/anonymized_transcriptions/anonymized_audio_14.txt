@@ -1,0 +1,59 @@
+Operator: Bonjour monsieur <PII>, je suis médecin du SAMU. Vous appelez parce que vous avez des symptômes <PII>, c'est ça?
+
+Caller: <PII> je ne sais pas, je suis désolé d'appeler, désolé de déranger là, je sais que vous avez du travail.
+
+Operator: Il n'y a pas de problème, expliquez-moi ce qui vous arrive comme symptôme.
+
+Caller: Ben oui, mon bras est plus bizarre.
+
+Operator: D'accord, c'est lequel?
+
+Caller: C'est le bras gauche.
+
+Operator: Et ça a commencé quand?
+
+Caller: J'ai fait une sieste et ça a commencé après. 
+
+Operator: C'était à quelle heure que vous vous êtes réveillé? 
+
+Caller: Je me suis réveillé à 13h30.
+
+Operator: Vous avez des problèmes de santé? 
+
+Caller: Ben oui, j'ai des problèmes de santé.
+
+Operator: Vous pouvez me dire lesquels?
+
+Caller: J'ai <PII>, je crois, et la tension aussi.
+
+Operator: Les médicaments que vous prenez, vous les connaissez? 
+
+Caller: Non, je ne connais pas le nom.
+
+Operator: Il faut que vous récupériez l'ordonnance chez vous et que vous me donniez les noms des médicaments. D'accord. Je vous laisse y aller.
+
+Caller: J'y vais. Je crois que je l'ai perdue. Je ne sais pas où elle est. Je ne la trouve pas.
+
+Operator: Et votre bras gauche, il ne bouge plus là?
+
+Caller: Non, la main ne bouge plus.
+
+Operator: Et par contre si vous prenez la main droite et que vous touchez la main gauche, vous vous sentez bien?
+
+Caller: Oui, je sens bien. J'ai pris du paracetamol.
+
+Operator: Vous êtes tout seul à la maison là?
+
+Caller: Oui, je suis seul madame.
+
+Operator: Alors, j'aimerais que vous vous allongiez et je vais envoyer les secours pour aller jusqu'à chez vous. Là je pense que...
+
+Caller: Il faut que j'aille à l'hôpital, c'est obligé? Il n'y a pas quelqu'un qui peut venir me faire une piqûre pour la douleur?
+
+Operator: Non, il faut que vous alliez à l'hôpital, c'est obligatoire.
+
+Caller: Je ne veux pas embêter à l'hôpital. Je préférerais que quelqu'un vienne pour la douleur de mon bras.
+
+Operator: D'accord, madame. Au revoir.
+
+Caller: Au revoir.

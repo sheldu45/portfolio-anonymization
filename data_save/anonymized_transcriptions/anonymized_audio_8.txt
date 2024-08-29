@@ -1,0 +1,20 @@
+Operator: Bonjour <PII>, je vous écoute. Vous appelez pour votre frère qui est blessé ici, n'est-ce pas?
+Caller: Oui, oui, oui, c'est ça, oui. Là, je rentrais du bar et j'ai vu mon frère. Il avait du sang sur son pantalon et il s'est encore fait un coup de couteau.
+Operator: La plaie, elle vous semble... Est-ce que la plaie saigne encore?
+Caller: Je ne sais pas, là, il ne veut pas que je regarde. Il est hyper énervé, il ne veut pas que j'appelle.
+Operator: Allez le voir et regardez la plaie. Allez le voir et regardez la plaie. J'ai besoin que vous regardiez la plaie et que vous me la décriviez.
+Caller: Je vais aller le voir, mais il va me renvoyer chez lui. Il ne voulait pas que j'appelle en fait, donc je vais voir. Voilà, il m'a dit de dégager, donc, très bien.
+Operator: Dites-lui que les secours ont besoin de lui parler.
+Caller: Mais il ne veut pas les voir, il ne veut pas leur parler. C'est mon cousin qui m'a dit d'appeler, mais c'est toujours la même chose.
+Operator: Vous avez vu la plaie au moins un peu ou pas de loin?
+Caller: Non, pas du tout. Vous n'avez pas vu la plaie... Est-ce qu'il est rentré à pied?
+Operator: Je ne sais pas, quand je suis arrivée, il était déjà là. Est-ce que là, il est debout, il est assis, il est allongé?
+Caller: Là, il est assis sur le canapé.
+Operator: On va vous envoyer les pompiers. Vous restez auprès de votre frère et vous nous rappelez s'il y a quoi que ce soit de nouveau.
+Caller: Ouais, ok, ok. En vrai, je ne pense pas. Attendez quand même avec lui, les pompiers vont venir.
+Operator: Les pompiers, carrément, je pense que ça va le faire vriller de voir les pompiers débarquer à la maison là. Ils vont gérer ça, ils n'ont plus qu'à tomber avec votre frère.
+Caller: Je ne suis pas très chaude, je voudrais amener toute une équipe là, chez nous.
+Operator: Les pompiers vont gérer ça, ne vous inquiétez pas, restez avec votre frère.
+Caller: Bon, il ne va pas être content. Il verra ça avec les pompiers. Bon, je vais lui dire.
+Operator: Merci, au revoir.
+Caller: Au revoir.

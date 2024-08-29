@@ -1,0 +1,26 @@
+Operator: Bonjour, le <PII>, vous appelez pour votre frère qui s'est pris un coup de couteau, c'est bien ça? 
+Caller: Oui, c'est ça. Franchement, je suis très très très inquiète. Il y a eu une bagarre, il y a eu des coups de couteau. Je suis très inquiète. 
+Operator: Où est-ce qu'il s'est pris des coups de couteau? 
+Caller: Il s'est pris un coup de couteau dans le bras. 
+Operator: Pardon? 
+Caller: Dans le bras, dans le bras. Je suis très inquiète là. Il faut enrayer. A quel niveau sur le bras? 
+Operator: Le haut du bras, je crois. Est-ce que ça saigne? 
+Caller: Il y a du sang partout, il y a du sang partout. Il y en a partout. Là, vous êtes avec votre frère, madame? 
+Operator: Oui, mon frère il est à la maison, oui. Avec vous? 
+Caller: Oui, il est à la maison. Allez à côté de lui et voyez si la plaie saigne, si ça saigne. Il a mis un bandage sur la plaie. Est-ce qu'à travers le bandage ça saigne? 
+Operator: Il y en a juste deux mecs là. Non, il a mis une grosse couche. Il y a deux mecs il y a 30 secondes au bandage. 
+Caller: Oui, mais allez à côté de lui et voyez si ça saigne. Là, je ne vois pas de sang sur le bandage. 
+Operator: Il vous parle? 
+Caller: Oui. 
+Operator: Il vous parle normalement, il est debout, il marche? 
+Caller: Oui. 
+Operator: Écoutez. Justement, il va falloir qu'il vienne à l'hôpital pour qu'on puisse examiner sa blessure. On va vous envoyer des pompiers. 
+Caller: Non, non, non, on ne va pas l'examiner. On n'est pas là pour l'examiner. Ce n'est pas possible. 
+Operator: Pourquoi, vous n'êtes pas là pour l'examiner? 
+Caller: Oui, d'accord, mais on ne met pas les pompiers. 
+Operator: Et comment?
+Caller: Oui, j'ai une voiture. Prenez votre voiture. Il faut qu'il aille à l'hôpital, prenez votre voiture et amenez-le à l'hôpital. Amenez-le à l'hôpital, ce sera la meilleure solution. Vous l'amenez à l'hôpital. 
+Operator: Et il reste comme ça avec son bandage?
+Caller: Il a son bandage, mais il dit que ça ne saigne plus. Donc, amenez-le à l'hôpital. 
+Operator: Et si ça saigne, je fais quoi?
+Caller: Amenez-le à l'hôpital, sauf si ça se met à saigner très activement, vous nous rappelez. Au revoir, madame.
