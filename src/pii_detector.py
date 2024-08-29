@@ -84,7 +84,7 @@ class PIIDetector:
             "- specific symptoms: hematuria, paresthesia, diplopia, tachypnea, daltonism, photophobia, blood in urine, double vision, shortness of breath, sensitivity to light"
             "- specific or severe diseases: COVID-19, cancer, diabetes, heart attack, parkinson's disease, alzheimer's disease, epilepsy, sclerosis, crohn's disease, stroke, renal disease"
             "examples of invalid PII :"
-            "- relative terms: mother, father, sister"
+            "- relative terms: mother, father, sister, daughter, son, cousin"
             "- titles: Mr., Mrs., Dr., Doctor, Professor"
             "- relative positions: boss, colleague, friend"
             "- relative locations: home, 3rd floor, office, school"
@@ -99,6 +99,7 @@ class PIIDetector:
             "- product names: iPhone, Windows, Android"
             "- organization names: WHO, UNICEF, Red Cross"
             "The language is {language}."
+            "Proper nouns may not be capitalized."
             "Chunk: {chunk}"
         )
         

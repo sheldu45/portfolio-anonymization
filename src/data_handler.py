@@ -44,7 +44,7 @@ class DataHandler:
         """
         # Determine the default output directory if not provided
         if output_dir is None:
-            output_dir = os.path.join(os.path.dirname(__file__), '../data/raw_audio')
+            output_dir = os.path.join(os.path.dirname(__file__), '../data/raw_audios')
 
         self.dataset_name = dataset_name
         self.output_dir = output_dir
@@ -54,7 +54,7 @@ class DataHandler:
         # Set random seed
         random.seed(self.seed)
 
-        # Define a path for saving the dataset locally, outside the raw_audio folder
+        # Define a path for saving the dataset locally, outside the raw_audios folder
         self.local_path = os.path.join(os.path.dirname(self.output_dir), 'dataset_local')
 
         # Load the dataset if it's missing or if reimport is True
@@ -64,8 +64,14 @@ class DataHandler:
             os.makedirs(self.local_path, exist_ok=True)
             self.dataset.save_to_disk(self.local_path)
         else:
-            print("Loading dataset from local storage...")
-            self.dataset = load_from_disk(self.local_path)
+            try:
+                print("Loading dataset from local storage...")
+                self.dataset = load_from_disk(self.local_path)
+            except FileNotFoundError:
+                print("Dataset not found locally. Re-importing dataset...")
+                self.dataset = load_dataset(self.dataset_name, split='train')
+                os.makedirs(self.local_path, exist_ok=True)
+                self.dataset.save_to_disk(self.local_path)
 
         # Clear any existing raw audio files from previous runs
         self._clear_raw_audio()
@@ -253,7 +259,7 @@ if __name__ == "__main__":
     )
 
     # Determine the default output directory relative to the script location
-    default_output_dir = os.path.join(os.path.dirname(__file__), '../data/raw_audio')
+    default_output_dir = os.path.join(os.path.dirname(__file__), '../data/raw_audios')
 
     # Add arguments for dataset name, output directory, latency, test size, seed, and reimport
     parser.add_argument(

@@ -2,6 +2,7 @@ import json
 import os
 import argparse
 from openai import OpenAI
+from pathlib import Path
 
 class Transcriber:
     
@@ -19,9 +20,11 @@ class Transcriber:
         self.client = OpenAI(api_key=api_key)
 
     def transcribe(self, file_path, output_dir=None):
-        # Ensure the output directory exists
+        # Resolve the output directory path
         if output_dir:
-            os.makedirs(output_dir, exist_ok=True)
+            root_dir = Path(__file__).resolve().parent.parent
+            output_dir = root_dir / output_dir
+            output_dir.mkdir(parents=True, exist_ok=True)
         
         with open(file_path, "rb") as audio_file:
             transcription = self.client.audio.transcriptions.create(
@@ -34,7 +37,7 @@ class Transcriber:
         # If output_dir is specified, write transcription to a file
         if output_dir:
             file_name = os.path.splitext(os.path.basename(file_path))[0]
-            output_file_path = os.path.join(output_dir, f"transcription_{file_name}.json")
+            output_file_path = output_dir / f"transcription_{file_name}.json"
             with open(output_file_path, "w") as f:
                 json.dump(transcription, f)
 
@@ -50,7 +53,7 @@ def main():
     parser.add_argument(
         "-o", "--output_dir",
         help="Directory to save the transcription file. Defaults to './data/transcriptions'.",
-        default="./data/transcriptions"
+        default="data/transcriptions"
     )
     parser.add_argument(
         "-k", "--api_key",

@@ -2,6 +2,7 @@ import argparse
 import os
 import numpy as np
 import soundfile as sf
+from pathlib import Path
 
 class AudioWhiteNoiseAdder:
     """
@@ -38,6 +39,11 @@ class AudioWhiteNoiseAdder:
         
         This method reads the audio file, generates white noise for the specified segments, and replaces the original audio with the noise.
         """
+        # Resolve the output directory path
+        root_dir = Path(__file__).resolve().parent.parent
+        output_folder = root_dir / output_folder
+        output_folder.mkdir(parents=True, exist_ok=True)
+        
         # Load the audio file
         data, samplerate = sf.read(audio_path)
         
@@ -52,10 +58,10 @@ class AudioWhiteNoiseAdder:
         
         # Generate the output file name
         base_name = os.path.basename(audio_path)
-        output_file_name = f"modified_{base_name}"
-        output_path = os.path.join(output_folder, output_file_name)
+        output_file_name = f"anonymized_{base_name}"
+        output_path = output_folder / output_file_name
         
-        # Save the modified audio to the output path
+        # Save the anonymized audio to the output path
         sf.write(output_path, data, samplerate)
 
 if __name__ == "__main__":
@@ -70,9 +76,6 @@ if __name__ == "__main__":
     
     # Convert the string of timestamps to a list of tuples
     timestamps = eval(args.timestamps)
-    
-    # Ensure the output directory exists
-    os.makedirs(args.output_folder, exist_ok=True)
     
     # Create an instance of AudioWhiteNoiseAdder and replace audio segments with white noise
     adder = AudioWhiteNoiseAdder(noise_level=args.noise_level)
